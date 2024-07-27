@@ -1,0 +1,6 @@
+opencv-python==4.5.3.56
+fer==22.2.5
+tensorflow==2.6.0
+mtcnn==0.1.0
+numpy==1.19.5
+tk
